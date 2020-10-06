@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋 I'm Kuntal sarkar
+##### I'm a full stack **LAMP freelance Developer**, pursuing study from **University of Engineering & Management,Kolkata(UEMK)** in **Masters Of Computer Application(MCA)**
 
-<!--
-**kuntalsarkar20/kuntalsarkar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SKILLS-**
+- LAMP Stack
+- System Administration
+- Project Management
+- Server Management
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Status-**
+- 🔭 I’m currently working on Ecommerce Project
+- 🌱 I’m currently learning Python and ML
+- 👯 I’m looking to collaborate on any PHP based full stack development
+- 🤔 I’m looking for help with ML & Cloud
+- 💬 Ask me about PHP | C | C++ | Data Structures 
+- 📫 How to reach me: <https://www.linkedin.com/in/kuntals/> | <kuntal.sarkar383@gmail.com>
+- 😄 Pronouns: Web Developer | System Administrator | Coder | Geek | Introvert
+- ⚡ Fav Quote: "The solution of your problems are just a click away" -Unknown
+- :computer: Favorite search engine [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+- :heart: Interested in: Cyber Security | Cloud Computing | Mobile App Development
